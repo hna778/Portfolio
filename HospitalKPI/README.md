@@ -11,6 +11,8 @@
 
 
 ### Insights Deep-Dives
+<img width="1362" height="1030" alt="Hospital Performance Dashboard" src="https://github.com/user-attachments/assets/1aab95bd-e54c-40cf-8131-76c1c5f43545" />
+
 #### Care Quality
 
 
