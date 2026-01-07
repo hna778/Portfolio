@@ -33,4 +33,4 @@ The analysis utilized over 28,000 [synthetic healthcare records](https://mavenan
 
 #
 
-The Excel file to clean, and explore key insights can be found [here](url).
+The Excel file used for data cleaning and exploratory analysis can be found [here](url).
