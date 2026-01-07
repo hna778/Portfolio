@@ -9,6 +9,7 @@ Layoffs have become a major topic of discussion worldwide, driven by economic un
 The [dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) consolidates publicly available data on workforce reductions across the global tech sector.  The dataset includes 28,282 records spanning from **March 11, 2020** - the date COVID-19 was officially declared a pandemic - **up to the present**. Since 2022, the technology industry has experienced significant restructuring, with 529,635 employees laid off in the US. Layoffs surged in 2023, reaching their peak with 178,745 reported job cuts, following 108,546 in 2022. The San Francisco Bay Area (Silicon Valley) absorbed the greatest impact, accounting for 45.42% of total U.S. layoffs, followed by Seattle at 13.67%. By industry, hardware technology led the reductions with 15.85%, trailed by the consumer sector at 12.24%.
 
 While the pace of layoffs has begun to ease, the effects remain widespread across nearly all segments of the tech ecosystem as companies continue to adjust to shifting market conditions and economic uncertainty.
+
 <img width="1319" height="769" alt="Layoffs Dashboard" src="https://github.com/user-attachments/assets/af46a5c8-29d3-4148-bc31-fc9a95987541" />
 
 ### Insights Deep-Dives
