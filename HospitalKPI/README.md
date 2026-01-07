@@ -10,9 +10,15 @@
 
 
 
-### Insights Deep-Dives
-<img width="1362" height="1030" alt="Hospital Performance Dashboard" src="https://github.com/user-attachments/assets/1aab95bd-e54c-40cf-8131-76c1c5f43545" />
 
+
+
+<img width="1365" height="1025" alt="Hospital Performance Dashboard" src="https://github.com/user-attachments/assets/6c52cc20-fe78-4b2a-9a9b-194de2785b3a" />
+
+
+
+
+### Insights Deep-Dives
 #### Care Quality
 
 
