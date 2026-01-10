@@ -11,30 +11,27 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 ### Insights Deep-Dives
 #### Demand & Utilization
 - Annual volume: MGH serves approximately 500 unique patients per year, accounting for 2,000–2,500 total visits. Utilization peaked in 2014 (≈3,800 visits) and 2021 (≈3,500 visits), corresponding to the influenza H3N2 outbreak and the COVID-19 pandemic, respectively.
-- Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing and admission avoidance strategies during COVID-19.
+- Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing during COVID-19.
 - Utilization intensity: Patients averaged ~4 encounters per year, indicating a relatively high frequency of repeat engagement with services.
   
 #### Operational efficiency
-- Length of stay and repeat utilization: MGH maintains a consistently short average length of stay (LOS) of approximately one day across encounter types, reflecting strong throughput efficiency. However, the ~40% repeat utilization within 30 days suggests a potential trade-off between rapid discharge and continuity of care, with some patients requiring short-term follow-up or revisits.
-- Distribution of length of stay: While the overall average LOS is one day, the distribution is right-skewed, driven primarily by a subset of inpatient encounters with substantially longer stays (24 days). In contrast, outpatient, ambulatory, and emergency encounters show greater dispersion, with LOS extending to 1–4 days at the 90th percentile. This indicates that averages mask meaningful variability across encounter classes.
+- Length of stay and repeat utilization: MGH maintains a consistently short average length of stay (LOS) of approximately one day across encounter types, reflecting strong throughput efficiency. However, the ~40% repeat utilization within 30 days suggests a potential trade-off between rapid discharge and continuity of care.
+- Distribution of length of stay: While the overall average LOS is one day, the distribution is right-skewed, driven primarily by a subset of inpatient encounters with substantially longer stays (24 days). In contrast, outpatient, ambulatory, and emergency encounters show greater dispersion, with LOS extending to 1–4 days. This indicates that averages mask meaningful variability across encounter classes.
 
 #### Financial Sustainability
 - Total claim cost trend: Total claim costs have remained relatively flat with a negative year-over-year growth rate, reflecting lower encounter volumes and reduced cost per encounter compared with prior years.
-- Treatment cost distribution: The average treatment cost is approximately $3,000 per encounter, with at least two procedures performed per visit. However, the median treatment cost across all encounter classes is ~$300, indicating a highly right-skewed cost distribution driven by a small number of high-cost encounters.
+- Treatment cost distribution: The average treatment cost is approximately $3,000 per encounter, with at least two procedures performed per visit. However, the median treatment cost across all encounter classes is ~$300, indicating a highly cost distribution driven by a small number of high-cost encounters.
 - Coverage ratio and patient burden: Coverage ratios remain below 35%, with a notable decline in 2018 to less than 25%. As a result, roughly 75% of treatment costs are paid out-of-pocket, increasing patient financial burden, elevating bad-debt risk, and potentially distorting hospital margins.
 - Payer mix dynamics: Among the three payer types, Medicare and private insurers are the primary payers. Medicare shows continued growth in both encounter volume and share of total costs, suggesting increasing dependence on public payer reimbursement
 
 ### Recommendation
-
+- Reduce Repeat Utilization: MGH should strengthen post discharge follow up for high-risk patients and frequent utilizer by using encounter history to flag patients mostly to return within 30 days, which could reduce avodable revisits, improve patient outcomes, and better alignment between rapid discharge and longterm care effectiveness.
+- Address Cost Concentration through High Cost Encounters: MGH should identify and monitor high cost diagnosis using cost-per-encounter threshold to expand care pathways for chronic and complex conditions to prevent cost escalation without compromising quality and more predictable resource utilzation.
+- Mitigate Patient Financial Burden and Reimbursement Risk: With low coverage ratio, MGH should reassess payer contract terms for high volumn service with low reimbursement coverage while expanding assistance program for uninsured patien group and enhancing financial counseling and cost transprency for patients which could reduce unpaid balance and improve financial stability
 
 ### Clarifying Questions, Assumptions, and Caveats
 - Data quality adjustment: During data exploration, 89 transactions (out of 28,000+ healthcare records) exhibited negative values when comparing total claim cost to base encounter cost. These anomalies likely reflect billing or data-entry issues rather than true negative costs. To prevent distortion of cost analyses, these values were clipped to zero.
-- Payer group classification: Multiple private insurance plans were consolidated into a single Private Insurance category. Patients with dual-eligible status were classified under Medicare, which may partially explain the observed increase in Medicare encounter volume.
-
-
-
-
-
+- Payer group classification: Multiple private insurance plans were consolidated into a single Private Insurance category. Patients with dual-eligible status (92 rows) were classified under Medicare, which may partially explain the observed increase in Medicare encounter volume and hare of total cost.
 
 #
 
