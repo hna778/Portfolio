@@ -17,18 +17,19 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 #### Operational efficiency
 - Length of stay and repeat utilization: MGH maintains a consistently short average length of stay (LOS) of approximately one day across encounter types, reflecting strong throughput efficiency. However, the ~40% repeat utilization within 30 days suggests a potential trade-off between rapid discharge and continuity of care, with some patients requiring short-term follow-up or revisits.
 - Distribution of length of stay: While the overall average LOS is one day, the distribution is right-skewed, driven primarily by a subset of inpatient encounters with substantially longer stays (24 days). In contrast, outpatient, ambulatory, and emergency encounters show greater dispersion, with LOS extending to 1–4 days at the 90th percentile. This indicates that averages mask meaningful variability across encounter classes.
-<div align="center"><img width="600" height="300" alt="Screenshot 2026-01-10 at 3 21 21 AM" src="https://github.com/user-attachments/assets/9931df18-b6fc-496c-926b-c232a1f8075d" /></div>
 
 #### Financial Sustainability
-
-
-
+- Total claim cost trend: Total claim costs have remained relatively flat with a negative year-over-year growth rate, reflecting lower encounter volumes and reduced cost per encounter compared with prior years.
+- Treatment cost distribution: The average treatment cost is approximately $3,000 per encounter, with at least two procedures performed per visit. However, the median treatment cost across all encounter classes is ~$300, indicating a highly right-skewed cost distribution driven by a small number of high-cost encounters.
+- Coverage ratio and patient burden: Coverage ratios remain below 35%, with a notable decline in 2018 to less than 25%. As a result, roughly 75% of treatment costs are paid out-of-pocket, increasing patient financial burden, elevating bad-debt risk, and potentially distorting hospital margins.
+- Payer mix dynamics: Among the three payer types, Medicare and private insurers are the primary payers. Medicare shows continued growth in both encounter volume and share of total costs, suggesting increasing dependence on public payer reimbursement
 
 ### Recommendation
 
 
 ### Clarifying Questions, Assumptions, and Caveats
-
+- Data quality adjustment: During data exploration, 89 transactions (out of 28,000+ healthcare records) exhibited negative values when comparing total claim cost to base encounter cost. These anomalies likely reflect billing or data-entry issues rather than true negative costs. To prevent distortion of cost analyses, these values were clipped to zero.
+- 
 
 
 
