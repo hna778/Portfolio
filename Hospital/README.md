@@ -29,7 +29,7 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 
 ### Clarifying Questions, Assumptions, and Caveats
 - Data quality adjustment: During data exploration, 89 transactions (out of 28,000+ healthcare records) exhibited negative values when comparing total claim cost to base encounter cost. These anomalies likely reflect billing or data-entry issues rather than true negative costs. To prevent distortion of cost analyses, these values were clipped to zero.
-- 
+- Payer group classification: Multiple private insurance plans were consolidated into a single Private Insurance category. Patients with dual-eligible status were classified under Medicare, which may partially explain the observed increase in Medicare encounter volume.
 
 
 
