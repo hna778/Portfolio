@@ -1,4 +1,5 @@
 Welcome to my portfolio! 
+<br>
 This repository is a collection of projects where I explore data, clean messy datasets, and uncover insights through exploratory data analysis (EDA). Each project includes explanations and step-by-step scripts to walk you through my thought process and how I approach data problems.
 
 ### Projects
