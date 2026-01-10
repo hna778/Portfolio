@@ -17,7 +17,7 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 #### Operational efficiency
 - Length of stay and repeat utilization: MGH maintains a consistently short average length of stay (LOS) of approximately one day across encounter types, reflecting strong throughput efficiency. However, the ~40% repeat utilization within 30 days suggests a potential trade-off between rapid discharge and continuity of care, with some patients requiring short-term follow-up or revisits.
 - Distribution of length of stay: While the overall average LOS is one day, the distribution is right-skewed, driven primarily by a subset of inpatient encounters with substantially longer stays (24 days). In contrast, outpatient, ambulatory, and emergency encounters show greater dispersion, with LOS extending to 1–4 days at the 90th percentile. This indicates that averages mask meaningful variability across encounter classes.
-<div align="center"><img width="600" height="300" alt="Screenshot 2026-01-10 at 3 21 21 AM" src="https://github.com/user-attachments/assets/9931df18-b6fc-496c-926b-c232a1f8075d" />
+<div align="center"><img width="600" height="300" alt="Screenshot 2026-01-10 at 3 21 21 AM" src="https://github.com/user-attachments/assets/9931df18-b6fc-496c-926b-c232a1f8075d" /></div>
 
 #### Financial Sustainability
 
