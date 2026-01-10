@@ -13,11 +13,12 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 - Annual volume: MGH serves approximately 500 unique patients per year, accounting for 2,000–2,500 total visits. Utilization peaked in 2014 (≈3,800 visits) and 2021 (≈3,500 visits), corresponding to the influenza H3N2 outbreak and the COVID-19 pandemic, respectively.
 - Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing and admission avoidance strategies during COVID-19.
 - Utilization intensity: Patients averaged ~4 encounters per year, indicating a relatively high frequency of repeat engagement with services.
-- Length of stay and repeat use: MGH consistently maintains an average length of stay of one day across encounter types. However, the ~40% repeat utilization within 30 days suggests a trade-off between operational efficiency (short stays and rapid throughput) and continuity of care, potentially leading to higher short-term revisits.
   
 #### Operational efficiency
-- Average length of stay of all encounter class is 1-day, but skewed to the right due to a number of inpatients stays(≈3.5 days)
-<img width="996" height="699" alt="Screenshot 2026-01-10 at 3 21 21 AM" src="https://github.com/user-attachments/assets/9931df18-b6fc-496c-926b-c232a1f8075d" />
+- Length of stay and repeat use: MGH consistently maintains an average length of stay of one day across encounter types. However, the ~40% repeat utilization within 30 days suggests a trade-off between operational efficiency (short stays and rapid throughput) and continuity of care, potentially leading to higher short-term revisits.
+- Average length of stay of all encounter class is 1-day, but skewed to the right due to a number of inpatients stays.
+- length of stay of urgentcare and wellness maintain median and 90th percentile the same, while they reach 1-4 days for outpatient, ambulatory, emergency and 24 days for inpatient.
+<img width="200" height="100" alt="Screenshot 2026-01-10 at 3 21 21 AM" src="https://github.com/user-attachments/assets/9931df18-b6fc-496c-926b-c232a1f8075d" />
 
 #### Financial Sustainability
 
