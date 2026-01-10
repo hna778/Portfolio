@@ -6,16 +6,18 @@ Hospital management depends on the ability to quickly assess performance and ide
 ### Executive Summary
 The analysis utilized over 70,000 [synthetic healthcare records](https://mavenanalytics.io/data-playground/hospital-patient-records) representing about 1,000 patients from Jan 01, 2011 to Feb 05, 2022. Throughout the period analyzed, the hospital maintained an average length of stay around 1 day and 2 procedures for each encounter. On the other hand, the number of encounters increased approximately 2.5 fold over the past decade, with notable peaks in 2014 - attributed to the influenza H3N2 outbreak and in 2021, driven by COVID-10 pandemic. This trend highlights a trade-off between efficient use of hospital beds and the increased need for follow-up care. Within the total claim cost of each encounter, the coverage ratio maintains below 35% of the total claim cost, making the rest is pay out of the pocket. Pay-out-of pocket accounted for the largest shares of the payers mix, medicare and private insurance company are next. Prior to the Covid-19 pandemic, chronic conditions such as cancer and heart failure were the primary drivers of high treatment cost. Following onset of the Covid-19 pandemic, Covid-19 treatment became the highest-cost category.
 
-<img width="1198" height="700" alt="Hospital Dashboard" src="https://github.com/user-attachments/assets/1eb6f262-0d21-453f-8159-e1c162fb53d0" />
-
-
+<img width="1198" height="696" alt="Hospital Dashboard" src="https://github.com/user-attachments/assets/0d6c6162-e91b-44d7-9371-4129b85b836a" />
 
 ### Insights Deep-Dives
-#### Care Quality
-
-
+#### Demand & Utilization
+- Annual volume: MGH serves approximately 500 unique patients per year, accounting for 2,000–2,500 total visits. Utilization peaked in 2014 (≈3,800 visits) and 2021 (≈3,500 visits), corresponding to the influenza H3N2 outbreak and the COVID-19 pandemic, respectively.
+- Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing and admission avoidance strategies during COVID-19.
+- Utilization intensity: Patients averaged ~4 encounters per year, indicating a relatively high frequency of repeat engagement with services.
+- Length of stay and repeat use: MGH consistently maintains an average length of stay of one day across encounter types. However, the ~40% repeat utilization within 30 days suggests a trade-off between operational efficiency (short stays and rapid throughput) and continuity of care, potentially leading to higher short-term revisits.
+  
 #### Operational efficiency
-
+- Average length of stay of all encounter class is 1-day, but skewed to the right due to a number of inpatients stays(≈3.5 days)
+<img width="996" height="699" alt="Screenshot 2026-01-10 at 3 21 21 AM" src="https://github.com/user-attachments/assets/9931df18-b6fc-496c-926b-c232a1f8075d" />
 
 #### Financial Sustainability
 
