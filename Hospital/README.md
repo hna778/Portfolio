@@ -34,6 +34,6 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 
 #
 
-The interactive dashboard can be downloaded [here](https://public.tableau.com/views/Book1_17680100760400/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The interactive dashboard can be downloaded [here](https://public.tableau.com/views/Book1_17680100760400/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 The Python scripts used for analysis can be found [here](https://github.com/hna778/Portfolio/blob/main/Hospital/Hospital_EDA.ipynb).
