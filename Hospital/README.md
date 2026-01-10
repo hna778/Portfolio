@@ -27,7 +27,7 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
     - Broad cost cutting to lower the total claim cost would be ineffective as most expensive procedures are for chronic and complex disease.
 - Coverage ratio and patient burden: Coverage ratios remain below 35%, with a notable decline in 2018 to 23%. As a result, roughly 75% of treatment costs are paid out-of-pocket, increasing patient financial burden, elevating bad-debt risk, and potentially distorting hospital margins.
     - Among encounters with insurance, approximately 25% received no payer coverage, indicating a substantial share of insured visits still resulted in out-of-pocket payment.
-- Payer mix dynamics: Uninsured encounters accounted for approximately 48.5% of total claim costs, followed by Medicare (25.8%), private insurance (16.9%), and Medicaid (8.8%).suggesting increasing dependence on public payer reimbursement
+- Payer mix dynamics: Uninsured encounters accounted for approximately 48.5% of total claim costs, followed by Medicare (25.8%), private insurance (16.9%), and Medicaid (8.8%), suggesting increasing dependence on public payer reimbursement.
 
 ### Recommendation
 - Reduce Repeat Utilization: MGH should strengthen post discharge follow up for high-risk patients and frequent utilizer by using encounter history to flag patients mostly to return within 30 days, which could reduce avodable revisits, improve patient outcomes, and better alignment between rapid discharge and longterm care effectiveness.
