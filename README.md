@@ -15,8 +15,8 @@ This repository is a collection of projects where I explore data, clean messy da
 - View [my work](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/housing_Full.sql)
 
 
-### Project: [COVID-19 Impact Analysis](https://github.com/hna778/Portfolio/blob/main/Covid19/README.md)
-- Description: This project involves analyzing the [500K+ records](https://ourworldindata.org/covid-deaths) and 61 columns details about the COVID-19 cases collected by World Health Organization. The goal is to extracted insight for epidemiological experts, including case counts, confirmed deaths, and vaccination activity across regions. Identified disparities in pandemic response and delivered insights into regional healthcare capacity and resource readiness.
+### Project: [COVID-19 Global Impact Analysis](https://github.com/hna778/Portfolio/blob/main/Covid19/README.md)
+- Description: This project involves analyzing the 500K+ [records](https://ourworldindata.org/covid-deaths) and 61 columns details about the COVID-19 cases collected by World Health Organization. The goal is to extracted insight for epidemiological experts, including case counts, confirmed deaths, and vaccination activity across regions. Identified disparities in pandemic response and delivered insights into regional healthcare capacity and resource readiness.
 - Tools Used: Python, SQL, Tableau
 - View my [work](https://github.com/hna778/Portfolio/blob/main/Covid19/covid19_EDA.sql)
 
