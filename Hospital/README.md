@@ -10,19 +10,23 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 
 ### Insights Deep-Dives
 #### Demand & Utilization
-- Annual volume: MGH serves approximately 500 unique patients per year, accounting for 2,000–2,500 total visits. Utilization peaked in 2014 (≈3,800 visits) and 2021 (≈3,500 visits), corresponding to the influenza H3N2 outbreak and the COVID-19 pandemic, respectively.
-- Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing during COVID-19.
-- Utilization intensity: Patients averaged ~4 encounters per year, indicating a relatively high frequency of repeat engagement with services.
+- Annual volume: MGH serves approximately 500 unique patients per year, accounting for 2,000–2,500 total visits. Utilization peaked in 2014 (≈3,800 visits, increased 56% yoy) and 2021 (≈3,500 visits, increased 40%), corresponding to the influenza H3N2 outbreak and the COVID-19 pandemic, respectively.
+- Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially - 43% and 185% respectively, while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing during COVID-19.
+- Utilization intensity: Utilization intensity: Patients averaged about 5 encounters per year, indicating frequent repeat use. By encounter class, urgent care users averaged ~6 visits per year, emergency care users ~2 visits, and wellness visits ~1 per year. Ambulatory, inpatient, and outpatient services averaged around 3 visits per patient per year.
   
 #### Operational efficiency
 - Length of stay and repeat utilization: MGH maintains a consistently short average length of stay (LOS) of approximately one day across encounter types, reflecting strong throughput efficiency. However, the ~40% repeat utilization within 30 days suggests a potential trade-off between rapid discharge and continuity of care.
 - Distribution of length of stay: While the overall average LOS is one day, the distribution is right-skewed, driven primarily by a subset of inpatient encounters with substantially longer stays (24 days). In contrast, outpatient, ambulatory, and emergency encounters show greater dispersion, with LOS extending to 1–4 days. This indicates that averages mask meaningful variability across encounter classes.
 
 #### Financial Sustainability
-- Total claim cost trend: Total claim costs have remained relatively flat with a negative year-over-year growth rate, reflecting lower encounter volumes and reduced cost per encounter compared with prior years.
-- Treatment cost distribution: The average treatment cost is approximately $3,000 per encounter, with at least two procedures performed per visit. However, the median treatment cost across all encounter classes is ~$300, indicating a highly cost distribution driven by a small number of high-cost encounters.
-- Coverage ratio and patient burden: Coverage ratios remain below 35%, with a notable decline in 2018 to less than 25%. As a result, roughly 75% of treatment costs are paid out-of-pocket, increasing patient financial burden, elevating bad-debt risk, and potentially distorting hospital margins.
-- Payer mix dynamics: Among the three payer types, Medicare and private insurers are the primary payers. Medicare shows continued growth in both encounter volume and share of total costs, suggesting increasing dependence on public payer reimbursement
+- Total claim cost trend: Total claim costs have remained relatively flat with a negative year-over-year growth rate, reflecting lower encounter volumes or reduced cost per encounter compared with prior years.
+- Treatment cost distribution: The average treatment cost is approximately $3,000 per encounter, with at least two procedures performed per visit. 
+    - Uninsured patients have higher average cost ~$5,600 versus ~$2,800 of insured patients.
+    - The median treatment cost across all encounter classes is ~$300, indicating a highly cost distribution driven by a small number of high-cost encounters.
+    - Broad cost cutting to lower the total claim cost would be ineffective as most expensive procedures are for chronic and complex disease.
+- Coverage ratio and patient burden: Coverage ratios remain below 35%, with a notable decline in 2018 to 23%. As a result, roughly 75% of treatment costs are paid out-of-pocket, increasing patient financial burden, elevating bad-debt risk, and potentially distorting hospital margins.
+    - Among encounters with insurance, approximately 25% received no payer coverage, indicating a substantial share of insured visits still resulted in out-of-pocket payment.
+- Payer mix dynamics: Uninsured encounters accounted for approximately 48.5% of total claim costs, followed by Medicare (25.8%), private insurance (16.9%), and Medicaid (8.8%).suggesting increasing dependence on public payer reimbursement
 
 ### Recommendation
 - Reduce Repeat Utilization: MGH should strengthen post discharge follow up for high-risk patients and frequent utilizer by using encounter history to flag patients mostly to return within 30 days, which could reduce avodable revisits, improve patient outcomes, and better alignment between rapid discharge and longterm care effectiveness.
