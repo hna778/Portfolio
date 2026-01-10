@@ -30,8 +30,8 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 - Mitigate Patient Financial Burden and Reimbursement Risk: With low coverage ratio, MGH should reassess payer contract terms for high volumn service with low reimbursement coverage while expanding assistance program for uninsured patien group and enhancing financial counseling and cost transprency for patients which could reduce unpaid balance and improve financial stability
 
 ### Clarifying Questions, Assumptions, and Caveats
-- Data quality adjustment: During data exploration, 89 transactions (out of 28,000+ healthcare records) exhibited negative values when comparing total claim cost to base encounter cost. These anomalies likely reflect billing or data-entry issues rather than true negative costs. To prevent distortion of cost analyses, these values were clipped to zero.
-- Payer group classification: Multiple private insurance plans were consolidated into a single Private Insurance category. Patients with dual-eligible status (92 rows) were classified under Medicare, which may partially explain the observed increase in Medicare encounter volume and hare of total cost.
+- Data quality adjustment: During data exploration, 89 records (out of 28,000+ healthcare records) exhibited negative values when comparing total claim cost to base encounter cost. These anomalies likely reflect billing or data-entry issues rather than true negative costs. To prevent distortion of cost analyses, these values were clipped to zero.
+- Payer group classification: Multiple private insurance plans were consolidated into a single Private Insurance category. Patients with dual-eligible status (92 records) were classified under Medicare, which may partially explain the observed increase in Medicare encounter volume and hare of total cost.
 
 #
 
