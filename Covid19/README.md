@@ -3,9 +3,7 @@ The Coronavirus disease 2019 (COVID-19) pandemic has had a profound global impac
 
 This project involved cleaning, processing, and analyzing the raw data to provide a comprehensive overview of the pandemic's impact across regions. The main objective is to understing the magnitude of COVID-19's effect on human lives and identify which continents and countries were most affected. Through exploratory data analysis, this project seeks to uncover disparities in pandemic response and offer insights into the relative healthcare capacity of different regions.
 
-
-
-## Data Structure Overview
+## Executive Summary
 The COVID-19 dataset comprises 61 columns and 530,291 records. Each record represents a unique country-date observation, allowing for detailed temporal and geographical analysis of key COVID-19 metrics. For the purpose of this analysis, the focus was narrowed to a subset of 13 relevant columns that provide an essential information for understanding infection trends, confirmed deaths and vaccination progress across regions. 
 
 ![Dashboard](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_Visualization.png)
