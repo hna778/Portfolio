@@ -9,10 +9,10 @@ This repository is a collection of projects where I explore data, clean messy da
 - View my [work](https://github.com/hna778/Portfolio/blob/main/Hospital/Hospital_EDA.ipynb)
 
 
-### Project: [Nashville Housing Analysis](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/README.md)
-- Description: This project conducted comprehensive SQL-based analysis on 56K+ records. The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) includes information on house location, land use purpose, sales records as well as owner demographic.
+### Project: [U.S. Tech Labor Market Post COVID-19](https://github.com/hna778/Portfolio/blob/main/Layoffs/README.md)
+- Description: This project involves cleaning and transforming [raw layoff data](https://www.kaggle.com/datasets/swaptr/layoffs-2022), and analyzing the layoff data. The goal is to highlight the patterns behind the U.S. workforce reductions and provide a data-driven view of how the tech landscape continues to evolve.
 - Tools Used: SQL, Tableau
-- View [my work](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/housing_Full.sql)
+- View my [work](https://github.com/hna778/Portfolio/blob/main/Layoffs/layofss_EDA.sql)
 
 
 ### Project: [COVID-19 Global Impact Analysis](https://github.com/hna778/Portfolio/blob/main/Covid19/README.md)
@@ -21,10 +21,10 @@ This repository is a collection of projects where I explore data, clean messy da
 - View my [work](https://github.com/hna778/Portfolio/blob/main/Covid19/covid19_EDA.sql)
 
 
-### Project: [U.S. Tech Labor Market Post COVID-19](https://github.com/hna778/Portfolio/blob/main/Layoffs/README.md)
-- Description: This project involves cleaning and transforming [raw layoff data](https://www.kaggle.com/datasets/swaptr/layoffs-2022), and analyzing the layoff data. The goal is to highlight the patterns behind the U.S. workforce reductions and provide a data-driven view of how the tech landscape continues to evolve.
+### Project: [Nashville Housing Analysis](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/README.md)
+- Description: This project conducted comprehensive SQL-based analysis on 56K+ records. The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) includes information on house location, land use purpose, sales records as well as owner demographic.
 - Tools Used: SQL, Tableau
-- View my [work](https://github.com/hna778/Portfolio/blob/main/Layoffs/layofss_EDA.sql)
+- View [my work](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/housing_Full.sql)
 
 
 ##
