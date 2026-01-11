@@ -24,7 +24,7 @@ This repository is a collection of projects where I explore data, clean messy da
 ### Project: [Nashville Housing Analysis](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/README.md)
 - Description: This project conducted comprehensive SQL-based analysis on 56K+ records. The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) includes information on house location, land use purpose, sales records as well as owner demographic.
 - Tools Used: SQL, Tableau
-- View [my work](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/housing_Full.sql)
+- View my [work](https://github.com/hna778/Portfolio/blob/main/Nashville%20Housing/housing_Full.sql)
 
 
 ##
