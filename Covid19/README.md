@@ -16,6 +16,4 @@ The interactive dashboard can be downloaded [here](https://public.tableau.com/ap
 
 The Python scripts used for initial data inspection and preparing data can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_InitialCheck.ipynb).
 
-The SQL queries utilized for data loading can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_Loading.sql).
-
 Target SQL queries exploring key insights can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_EDA.sql).
