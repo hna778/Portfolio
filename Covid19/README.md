@@ -20,7 +20,7 @@ Over the five-year period, the global infection rate was 1.28%, while the case f
 
 #### Vaccination Efforts
 - As of Sep 07, 2025, South America recorded the highest vaccination rate globally, with 87% of its population vaccinated, while Africa had the lowest coverage at 39%.
-- Global vaccination efforts began on Dec 02, 2020. By the end of 2020, Asia had vaccinated 13.5% of its population, whereas all other continents remained below 1% coverage. In the years that followed, South America consistently maintained the highest vaccinated rate among all continents
+- Global vaccination efforts began on Dec 02, 2020. By the end of 2020, Asia had vaccinated 13.5% of its population, whereas all other continents remained below 1% coverage. In the years that followed, South America consistently maintained the highest vaccinated rate among all continents.
 - From 2021 onward, vaccination rate accelerated worldwide, with most continents sustaining vaccination rate above 60%, except Africa, which continued to lag behind.
 
 ### Clarifying Questions, Assumptions, and Caveats
