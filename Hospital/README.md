@@ -10,7 +10,7 @@ The analysis utilized over 70,000 [synthetic healthcare records](https://mavenan
 <img width="1194" height="692" alt="Hospital Dashboard" src="https://github.com/user-attachments/assets/66dd602b-427e-4bc8-954f-de3a2ee2aac9" />
 
 
-### Insights Deep-Dives
+### Insights Deep-Dive
 #### Demand & Utilization
 - Annual volume: MGH serves approximately 500 unique patients per year, accounting for 2,000–2,500 total visits. Utilization peaked in 2014 (≈3,800 visits, increased 56% yoy) and 2021 (≈3,500 visits, increased 40%), corresponding to the influenza H3N2 outbreak and the COVID-19 pandemic, respectively.
 - Shift in care setting: In both 2014 and 2021, outpatient encounters increased substantially - 43% and 185% respectively, while inpatient admissions declined, reflecting surge-driven demand for rapid access to care during influenza outbreaks and the effects of social distancing during COVID-19.
