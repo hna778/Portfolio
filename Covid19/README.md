@@ -18,12 +18,6 @@ Over the five-year period, the global infection rate was 1.28%, while the case f
 - South America recorded the highest mortality rate at 0.31% of its population, while North America and Europe reported similar mortality rate of 0.3%, highlighting the vulnerability of population in these regions.
 - There were multiple COVID-19 variants emerged over time, contributing to fluctuation in confirmed deaths across different periods and posing significant challeged the global vaccination efforts.
 
-- Among the continents, Europe, Oceania, and North America reported the highest proportions of confirmed infections, at 34.0%, 33.4%, and 20.6%, respectively.
-
-South America recorded the highest mortality rate at 0.31% of its population, while North America and Europe reported similar mortality rates of 0.30%, highlighting the vulnerability of populations in these regions.
-
-Multiple COVID-19 variants emerged over time, contributing to fluctuations in confirmed deaths across different periods and posing significant challenges to global vaccination efforts.
-
 #### Vaccination Efforts
 - As of Sep 07, 2025, South America recorded the highest vaccination rate globally, with 87% of its population vaccinated, while Africa had the lowest coverage at 39%.
 - Global vaccination efforts began on Dec 02, 2020. By the end of 2020, Asia had vaccinated 13.5% of its population, whereas all other continents remained below 1% coverage. In the years that followed, South America consistently maintained the highest vaccinated rate among all continents
