@@ -8,11 +8,12 @@ This project involved cleaning, processing, and analyzing the raw data to provid
 ### Executive Summary
 The COVID-19 dataset comprises 61 columns and 530,291 records. Each record represents a unique country-date observation, allowing for detailed temporal and geographical analysis of key COVID-19 metrics. For the purpose of this analysis, the focus was narrowed to a subset of 13 relevant columns that provide an essential information for understanding infection trends, confirmed deaths and vaccination progress across regions. 
 
-![Dashboard](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_Visualization.png)
+<img width="1199" height="682" alt="2601112 covid19_VIsualization" src="https://github.com/user-attachments/assets/ffda6b3a-1c78-4f30-9a73-4dc00699730d" />
+
 
 ##
 
-The interactive dashboard can be downloaded [here](https://public.tableau.com/app/profile/anh.ng5326/viz/Book2_17563327591560/Dashboard3).
+The interactive dashboard can be downloaded [here](https://public.tableau.com/views/Book2_17563327591560/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 The Python scripts used for initial data inspection and preparing data can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_InitialCheck.ipynb).
 
