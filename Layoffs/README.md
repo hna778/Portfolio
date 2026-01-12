@@ -12,7 +12,7 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 
 <img width="1319" height="769" alt="Layoffs Dashboard" src="https://github.com/user-attachments/assets/af46a5c8-29d3-4148-bc31-fc9a95987541" />
 
-### Insights Deep-Dives
+### Insights Deep-Dive
 #### Layoffs Trends
 - 2023 recorded the highest layoffs, with ~178K employees affected across U.S. companies.
 - Layoffs began in 2020 during the COVID-19 outbreak, but dropped sharply by 80% in 2021 as companies ramped up hiring to support the surge in remote work, digital services, and online commerce.
