@@ -25,7 +25,7 @@ Over the four-year period (from 2013 to 2016), number of properties were sold as
 
 #### Distribution of Property Prices Across and Property Types
 - Both residential condos and single-family homes experienced upward price trends, with residential condos showing a sharper price increase between 2014 and 2015, while single-family home prices followed a more stable, gradual trajectory.
-- Despite these differences in price growth, the median sale prices for both property types converged at approximately $250,000. This convergence may be attributed to the limited supply of residential condos, contrasted with the higher transaction volume and more stable availability of single-family homes.
+- The median sale prices for both property types converged at approximately $250,000. This convergence may be attributed to the limited supply of residential condos, contrasted with the higher transaction volume and more stable availability of single-family homes.
 
 #### Inventory exploration
 - 
