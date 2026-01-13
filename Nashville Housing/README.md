@@ -14,23 +14,26 @@ Over the four-year period (from 2013 to 2016), number of properties were sold as
 
 ### Insights Deep-Dive
 #### Key Products Performances
-- Among all the property types, Single Family and Residential Condo are the key products driving the growth of the Nashville housing market in Tennessee, taking 75% the sales in Nashville.
-- Between these two property types, single-family homes have more than double the sales (~23K transactions) compared to Residential Condos (~11K transactions) contributing to the dynamic housing market during the active period 2013 - 2016.
+- Single-family homes and residential condos are the primary drivers of growth in Nashville’s housing market, together accounting for approximately 75% of total home sales in the city.
+- Between these two property types, single-family homes dominate, recording over 23K transactions, more than double the ~11K residential condo sales during the active period from 2013 to 2016, underscoring their stronger contribution to Nashville’s housing market dynamics.
 
 #### Sales Trends and Growth Rates
-- Both Residential condo and Single-family homes have the same patterns in sales growth, with 2015 being the peak sale and gradually slowing down in 2016.
-- The total transactions of Residential condo was reported nearly 2,000 units in 2013, but reached 3,500 units in 2015 before going back to 3,000 units in 2016, similar to 2014 performance.
-- Similarly, total transactions of Single Family recorded at 5,000 units in 2013, 5,900 units in 2014, and 6,700 units in 2015 before slowing down in 2016 with 5,600 sold units.
-- In monthly record, June seems to be the most active market with high peak sold units.
+- Residential condos and single-family homes exhibit similar sales growth patterns, with 2015 marking the peak year, followed by a moderate slowdown in 2016.
+- Residential condo transactions totaled nearly 2,000 units in 2013, hiked 3,000 units in 2014, and increased stably to 3,500 units in 2015, and then return to levels comparable to 2014.
+- Single-family home sales followed a similar trajectory, rising from 5,000 units in 2013 to 5,900 units in 2014, peaking at 6,700 units in 2015, before easing to 5,600 units in 2016.
+- On a monthly basis, June consistently emerges as the most active month, recording the highest number of transactions.
 
 #### Distribution of Property Prices Across and Property Types
-- Both residential condo and single family withness the uptrend price which residential condo have a steep price jump from 2014 to 2015. Single family have a stable price trend.
-- The median prices of both property types are similar at $250,000 - which could be explained due to the short supply of residential condos while there were active sales transactions of single-family homes. 
+- Both residential condos and single-family homes experienced upward price trends, with residential condos showing a sharper price increase between 2014 and 2015, while single-family home prices followed a more stable, gradual trajectory.
+- Despite these differences in price growth, the median sale prices for both property types converged at approximately $250,000. This convergence may be attributed to the limited supply of residential condos, contrasted with the higher transaction volume and more stable availability of single-family homes.
+
+#### Inventory exploration
+- 
 #### Influence of Size and Year Built on Sale Prices.
 
 
 
-#### Inventory exploration
+
 
 
 
