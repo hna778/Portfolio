@@ -28,14 +28,12 @@ Over the four-year period (from 2013 to 2016), number of properties were sold as
 - The median sale prices for both property types converged at approximately $250,000. This convergence may be attributed to the limited supply of residential condos, contrasted with the higher transaction volume and more stable availability of single-family homes.
 
 #### Inventory exploration
-- 
+- Vacant single-family homes and residential condos accounted for approximately one-third of total transactions during the examined period, indicating a significant new supply entering the market for homebuyers.
+- Single-family homes recorded relatively few vacant-unit transactions in the period, while the vacant residential condo  market became active primarily in June 2014, marked by a notable surge in supply, suggesting that new condominium developments were completed and released for sale at that time.
+  
 #### Influence of Size and Year Built on Sale Prices.
-
-
-
-
-
-
+- Sale prices for both residential condos and single-family homes are higher for properties built after 2000 compared to those constructed earlier, indicating a premium placed on newer housing stock.
+- Size data for residential condos are unavailable; however, the majority of single-family home transactions involve properties smaller than 0.5 acres, with prices generally increasing in proportion to lot size, suggesting a positive relationship between property size and sale price.
 
 ### Recommendation
 
